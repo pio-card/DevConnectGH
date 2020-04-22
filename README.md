@@ -1,2 +1,0 @@
-# DevConnectGH
-Created with CodeSandbox
